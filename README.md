@@ -5,4 +5,3 @@ Line from main
 Line from conflict-branch
 >>>>>>> conflict-branch
 Update from Collaborator
-Mistake line
